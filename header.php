@@ -170,10 +170,10 @@
                     <div class="col-12 h-100">
                         <div class="header-content h-100 d-flex align-items-center justify-content-between">
                             <div class="academy-logo">
-                                <a href="index.html"><img src="img/core-img/logo.png" alt=""></a>
+                                <a href="index.html"><img src="<?= get_template_directory_uri() ?>/template/img/core-img/logo.png" alt=""></a>
                             </div>
                             <div class="login-content">
-                                <a href="#">Register / Login</a>
+                                <a href="#">Vote Lista 57</a>
                             </div>
                         </div>
                     </div>
@@ -205,23 +205,33 @@
                             <div class="classynav">
                                 <ul>
                                     <li><a href="index.html">Inicio</a></li>
-                                    <li><a href="about-us.html">Filosofía</a></li>
-                                    <li><a href="course.html">Nosotros</a></li>
+                                    <li><a href="about-us.html">Nuestra Filosofía</a></li>
                                     <li><a href="#">Propuestas</a>
-                                        <ul class="dropdown">
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="about-us.html">About Us</a></li>
-                                            <li><a href="course.html">Course</a></li>
-                                            <li><a href="blog.html">Blog</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="elements.html">Elements</a></li>
-                                        </ul>
+                                        <div class="megamenu row mx-0 py-4">
+                                            <ul class="single-mega col-4">
+                                                <li><a href="#">Reforma Política</a></li>
+                                                <li><a href="#">Modernización del Estado</a></li>
+                                                <li><a href="#">Relaciones Internacionales</a></li>
+                                                <li><a href="#">Libertad de Prensa y Expresión</a></li>
+                                                
+                                            </ul>
+                                            <ul class="single-mega col-4">
+                                                <li><a href="#">Defensa</a></li>
+                                                <li><a href="#">Seguridad de las Personas</a></li>
+                                                <li><a href="#">Política Económica</a></li>
+                                                <li><a href="#">Relaciones Laborales</a></li>
+
+                                            </ul>
+                                            <ul class="single-mega col-4">
+                                                <li><a href="#">Educación</a></li>
+                                                <li><a href="#">Cultura</a></li>
+                                                <li><a href="#">Salud</a></li>
+                                                <li><a href="#">Justicia</a></li>
+                                                
+                                            </ul>
+                                        </div>
                                     </li>
-                                    <li><a href="#">Reglamento Nacional</a>
-                                        <ul class="dropdown">
-                                            <li><a href="index.html">Home</a></li>
-                                        </ul>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact.html">Contacto</a></li>
                                 </ul>
                             </div>
                             <!-- Nav End -->
