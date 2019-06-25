@@ -1,0 +1,14 @@
+<svg id="BG_Header" data-name="BG Header" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 254.514 789.973">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dae1f8;
+      }
+    </style>
+  </defs>
+  <path id="Path_659" data-name="Path 659" class="cls-1" d="M0,0H68.523L254.514,307.375V532.033L96.422,789.973H22.515L251.088,415.054Z"/>
+  <path id="Path_660" data-name="Path 660" class="cls-1" d="M22.3,0H81.524l86.143,142.43v95.443Z" transform="translate(86.847)"/>
+  <path id="Path_661" data-name="Path 661" class="cls-1" d="M42.7,0H88.219V74.4Z" transform="translate(166.295)"/>
+  <path id="Path_662" data-name="Path 662" class="cls-1" d="M141.184,123.5v91.038L83.429,309H29.1Z" transform="translate(113.33 480.971)"/>
+  <path id="Path_663" data-name="Path 663" class="cls-1" d="M49.5,177.757,61.736,157.2v20.557Z" transform="translate(192.778 612.216)"/>
+</svg>

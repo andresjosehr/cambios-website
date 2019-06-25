@@ -1,0 +1,16 @@
+{
+  "css": [
+  	"node_modules/slick-carousel/slick/slick.css",	
+  	"node_modules/bootstrap/dist/css/bootstrap.min.css",
+    "node_modules/normalize.css/normalize.css",
+    "node_modules/animate.css/animate.css",
+    "sass/style.scss"
+  ],
+  "js": [
+  	"node_modules/jquery/dist/jquery.min.js",
+  	"node_modules/slick-carousel/slick/slick.js",
+  	"node_modules/bootstrap/dist/js/bootstrap.min.js",
+    "js/main/functions.js",
+    "js/main/main.js"
+  ]
+}
