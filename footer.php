@@ -6,7 +6,7 @@
                 <div class="row">
                     <div class="col-12">
                         <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-<h3 class="center-sm dere_rev" style="font-size: 11px;font-family: 'Open Sans',sans-serif;;color: white !important">© Copyright 2019 Cambio • Desarrollado por <a href="https://www.btob.com.ar/" target="_blank" style="text-decoration: none;color: white;font-weight: 600;"> <span style="color: #fb1515;font-size: 11px;position: relative;margin-right: 5px;">BtoB</span>Soluciones </a> | Todos los derechos reservados</h3>
+<h3 class="center-sm dere_rev" style="font-size: 11px;font-family: 'Open Sans',sans-serif;;color: white !important">© Copyright 2019 PARTIDO CAMBIO CORDOBA | Todos los derechos reservados • Desarrollado por <a href="https://www.btob.com.ar/" target="_blank" style="text-decoration: none;color: white;font-weight: 600;"> <span style="color: #fb1515;font-size: 11px;position: relative;margin-right: 5px;">BtoB</span>Soluciones </a> </h3>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                     </div>
                 </div>
