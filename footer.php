@@ -11,10 +11,10 @@
                                 © Copyright 2019 PARTIDO CAMBIO CORDOBA | Todos los derechos reservados
                             </div>
                             <div style="margin-top: 5px"> 
-                                Desarrollado por 
+                                Desarrollado por
                                 <a href="https://www.btob.com.ar/" target="_blank" >
-                                    <span>BtoB</span>
-                                    Soluciones
+                                    <span style="margin-right: 0px;">BtoB</span>
+                                Soluciones
                                 </a>
                             </div>
                         </h3>
