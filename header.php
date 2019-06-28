@@ -170,7 +170,7 @@
                     <div class="col-12 h-100">
                         <div class="header-content h-100 d-flex align-items-center justify-content-between">
                             <div class="academy-logo">
-                                <a href="index.html"><img src="<?= get_template_directory_uri() ?>/template/img/core-img/logo.png" alt=""></a>
+                                <a href="#"><img src="<?= get_template_directory_uri() ?>/template/img/core-img/logo.png" alt=""></a>
                             </div>
                             <div class="login-content">
                                 <a href="#">Vote Lista 57</a>
@@ -182,7 +182,7 @@
         </div>
 
         <!-- Navbar Area -->
-        <div class="academy-main-menu">
+        <div class="academy-main-menu" style="transition: all .4s">
             <div class="classy-nav-container breakpoint-off">
                 <div class="container">
                     <!-- Menu -->
@@ -204,25 +204,25 @@
                             <!-- Nav Start -->
                             <div class="classynav">
                                 <ul>
-                                    <li><a href="index.html">Inicio</a></li>
-                                    <li><a href="about-us.html">Nuestra Filosofía</a></li>
+                                    <li><a href="">Inicio</a></li>
+                                    <li><a href="">Nuestra Filosofía</a></li>
                                     <li><a href="#">Propuestas</a>
                                         <div class="megamenu row mx-0 py-4">
-                                            <ul class="single-mega col-4">
+                                            <ul class="single-mega col-lg-4">
                                                 <li><a href="#">Reforma Política</a></li>
                                                 <li><a href="#">Modernización del Estado</a></li>
-                                                <li><a href="#">Relaciones Internacionales</a></li>
-                                                <li><a href="#">Libertad de Prensa y Expresión</a></li>
+                                                <li><a href="#">Relaciones Exteriores</a></li>
+                                                <li><a href="#">Libertad de Prensa</a></li>
                                                 
                                             </ul>
-                                            <ul class="single-mega col-4">
+                                            <ul class="single-mega col-lg-4">
                                                 <li><a href="#">Defensa</a></li>
                                                 <li><a href="#">Seguridad de las Personas</a></li>
                                                 <li><a href="#">Política Económica</a></li>
                                                 <li><a href="#">Relaciones Laborales</a></li>
 
                                             </ul>
-                                            <ul class="single-mega col-4">
+                                            <ul class="single-mega col-lg-4">
                                                 <li><a href="#">Educación</a></li>
                                                 <li><a href="#">Cultura</a></li>
                                                 <li><a href="#">Salud</a></li>
@@ -231,7 +231,7 @@
                                             </ul>
                                         </div>
                                     </li>
-                                    <li><a href="contact.html">Contacto</a></li>
+                                    <li><a href="#">Contacto</a></li>
                                 </ul>
                             </div>
                             <!-- Nav End -->

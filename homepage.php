@@ -16,6 +16,9 @@
     .owl-prev, .owl-next{
         margin-top: 120px !important;
     }
+    .is-sticky{
+        transition: all 2s;
+    }
 </style>
 
   <!-- The overlay -->
