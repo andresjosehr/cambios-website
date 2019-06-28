@@ -6,8 +6,19 @@
                 <div class="row">
                     <div class="col-12">
                         <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-<h3 class="center-sm dere_rev" style="font-size: 11px;font-family: 'Open Sans',sans-serif;;color: white !important">© Copyright 2019 PARTIDO CAMBIO CORDOBA | Todos los derechos reservados • Desarrollado por <a href="https://www.btob.com.ar/" target="_blank" style="text-decoration: none;color: white;font-weight: 600;"> <span style="color: #fb1515;font-size: 11px;position: relative;margin-right: 5px;">BtoB</span>Soluciones </a> </h3>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                        <h3 class="center-sm dere_rev">
+                            <div>
+                                © Copyright 2019 PARTIDO CAMBIO CORDOBA | Todos los derechos reservados
+                            </div>
+                            <div style="margin-top: 5px"> 
+                                Desarrollado por 
+                                <a href="https://www.btob.com.ar/" target="_blank" >
+                                    <span>BtoB</span>
+                                    Soluciones
+                                </a>
+                            </div>
+                        </h3>
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                     </div>
                 </div>
             </div>
@@ -19,6 +30,22 @@
     	.bottom-footer-area a, .bottom-footer-area a:hover, .bottom-footer-area a:focus {
     		font-size: 11px;
     	}
+        .dere_rev{
+            font-size: 11px;
+            font-family: 'Open Sans',sans-serif;
+            color: white !important;
+        }
+        .dere_rev a{
+            text-decoration: none;color: white;
+            font-weight: 600;
+        }
+
+        .dere_rev span{
+            color: #fb1515;
+            font-size: 11px;
+            position: relative;
+            margin-right: 5px;
+        }
     </style>
     <!-- ##### All Javascript Script ##### -->
     <!-- Popper js -->
